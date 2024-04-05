@@ -25,3 +25,8 @@ $ npm i
 Step 3 - Start the API server (development mode)
 
 $ npm start
+
+To see the Functionality/dashboard of admin you need to login as a admin.
+To admin login credentials:-
+email:- admin@admin.com
+password:- admin123
