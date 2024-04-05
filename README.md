@@ -28,5 +28,5 @@ $ npm start
 
 To see the Functionality/dashboard of admin you need to login as a admin.
 To admin login credentials:-
-email:- admin@admin.com
+email:- admin@gmail.com
 password:- admin123
